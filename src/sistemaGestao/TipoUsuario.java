@@ -1,0 +1,10 @@
+package sistemaGestao;
+
+public enum TipoUsuario {
+	ADMINISTRADOR,
+	PROFESSOR,
+	PESQUISADOR,
+	ALUNO_GRADUACAO,
+	ALUNO_MESTRADO,
+	ALUNO_DOUTORADO
+}
